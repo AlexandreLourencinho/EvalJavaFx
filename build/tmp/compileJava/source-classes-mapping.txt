@@ -1,0 +1,16 @@
+pt/alexandre/gui/gestionTableClient/model/ConnexionBaseHotel.java
+ pt.alexandre.gui.gestionTableClient.model.ConnexionBaseHotel
+pt/alexandre/gui/gestionTableClient/model/DAOinterface.java
+ pt.alexandre.gui.gestionTableClient.model.DAOinterface
+pt/alexandre/gui/gestionTableClient/model/Clients.java
+ pt.alexandre.gui.gestionTableClient.model.Clients
+pt/alexandre/gui/gestionTableClient/model/ClientsDAO.java
+ pt.alexandre.gui.gestionTableClient.model.ClientsDAO
+pt/alexandre/gui/gestionTableClient/tools/CheckForm.java
+ pt.alexandre.gui.gestionTableClient.tools.CheckForm
+pt/alexandre/gui/gestionTableClient/TableClientController.java
+ pt.alexandre.gui.gestionTableClient.TableClientController
+pt/alexandre/gui/menu/MenuController.java
+ pt.alexandre.gui.menu.MenuController
+pt/alexandre/App.java
+ pt.alexandre.App
